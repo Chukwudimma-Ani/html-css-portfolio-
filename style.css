@@ -1,0 +1,450 @@
+#header{
+    padding: 5px;
+    padding-bottom: 0px;
+    width: px;
+    height: 200px;
+    margin: 5px;
+    margin-left:0PX;
+    margin-bottom: 0px;
+    margin-left: 15%;
+    
+    border-radius: 0.5px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-top: 0px;
+}
+
+a{
+    text-align: end;
+    cursor: pointer;
+    text-decoration-color: rgb(161, 30, 30);
+    text-size-adjust: 50px;
+    text-emphasis-color: red;
+    text-decoration-line: none;
+    color: gray;
+    
+}
+H1{
+    text-align: center;
+   background-color: rgba(26, 121,40,0.9);
+   height: 70px;
+   width: 2150px;
+   border: 5PX SOLID maroon;
+   border-left: 0px;
+   border-bottom: 0PX;
+   border-right: 0PX;
+   position:absolute;
+   left:3px;
+   padding-top: 20px;
+   font-family: "Open Sans", sans-serif;
+   font-size: 28px;
+   font-weight: 400;
+   color: white;
+}
+#home{
+    display: flex;
+    position: absolute;
+    left: 750px;
+    top:50px ;
+    font-size: 20px;
+    text-align: end;
+    cursor: pointer;
+    text-decoration-color: rgb(161, 30, 30);
+    text-size-adjust: 50px;
+    text-emphasis-color: red;
+    text-decoration-line: none;
+    color: gray;
+    
+
+}
+#paymentstatus{
+    display: flex;
+    position: absolute;
+    left: 850px;
+    top:50px ;
+    font-size: 20px;
+
+}
+.cu{
+    display: flex;
+    position: absolute;
+    left: 990px;
+    top:50px ;
+    font-size: 20px;
+
+  
+    
+}
+#login{
+    width: 20px;
+    height: 5px;
+    position: relative;
+    left: 1000px;
+    top: 190px;
+
+}
+#NO{
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: relative;
+    left: 250px;
+    width: 600px;
+    height: 100px;
+    text-align:center;
+    margin: 50px;
+    padding-top: 50px;
+    font: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 35px;
+    box-shadow: rgb(153,153,153);
+
+   
+}
+.html{
+    font-family:Arial, Helvetica, sans-serif;
+}
+#gray{
+    background-color: rgb(83,91,96);
+    width: 2000px;
+    height: 4.5px;
+    position: absolute;
+    top: 210px;
+    left: 3px;
+}
+
+#img-resize{ 
+    max-width: 300px; 
+    max-height: 300px;
+    padding-left: 150px;
+   
+   
+}
+#mob{
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: relative;
+    left: 250px;
+    width: 620px;
+    height: 160px;
+    text-align:center;
+    margin: 50px;
+    padding-top: 5px;
+    font: Arial, Helvetica, sans-serif;
+    color: rgb(184, 17, 17);
+    font-size: 35px;
+    box-shadow: rgb(153,153,153);
+    z-index: -1;
+
+}
+#red{
+    font-size:large;
+    text-align: center;
+    position: absolute;
+    left: 459px;
+    top: 855px;
+    color: rgb(79,141,179);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ver{
+   border: 0px solid black;
+   width: 200px;
+   height: 35px;
+   font-size: larger;
+   text-align: center;
+   position: absolute;
+   top: 1025px;
+   left: 70px;
+   padding-top: 10px;
+   background-color: rgba(0, 124, 0, 0.20);
+   border-radius: 8px;
+   text-decoration-line: underline;
+}
+#bor{
+    border: 1px solid gray;
+    width:311px;
+    height: 150PX;
+    z-index: -1;
+    border-radius: 5px;
+    position: absolute;
+    left: 30px;
+}
+.img-verif{
+    position: absolute;
+    top: 955px;
+    left: 130px;
+
+}
+#ly{
+    position: absolute;
+    top: 1070px;
+    left: 55px;
+    font-size: large;
+    color:rgb(79,141,179) ;
+}
+#sor{
+    border: 1px solid gray;
+    width:311px;
+    height: 150PX;
+    z-index: -1;
+    border-radius: 5px;
+    position: absolute;
+    left: 490px;
+}
+#nor{
+    border: 1px solid gray;
+    width:480px;
+    height: 155PX;
+    z-index: -1;
+    border-radius: 5px;
+    position: absolute;
+    left: 890px;
+}
+#ps{
+    position: absolute;
+    top: 955px;
+    left: 610px;
+}
+#ms{
+    position: absolute;
+    top: 955px;
+    left: 999px;
+}
+.ps{
+    border: 0px solid black;
+   width: 200px;
+   height: 35px;
+   font-size: larger;
+   text-align: center;
+   position: absolute;
+   top: 1025px;
+   left: 540px;
+   padding-top: 10px;
+   background-color: rgba(0, 124, 0, 0.20);
+   border-radius: 8px;
+   text-decoration-line: underline;
+}
+.ms{
+    border: 0px solid black;
+    width: 250px;
+    height: 35px;
+    font-size: larger;
+    text-align: center;
+    position: absolute;
+    top: 1025px;
+    left: 940px;
+    padding-top: 10px;
+    background-color: rgba(0, 124, 0, 0.20);
+    border-radius: 8px;
+    text-decoration-line: underline;
+ }
+ #cps{
+    position: absolute;
+    top: 1070px;
+    left: 545px;
+    font-size: large;
+    color:rgb(79,141,179) ;
+}
+.wfi{
+    position: absolute;
+    top: 1070px;
+    left: 925px;
+    color:rgb(79,141,179) ;
+    text-align: center;
+    font-size: large;
+}
+div>h2{
+    font-size: xx-large;
+    position: absolute;
+    top: 1150px;
+    left: 30px;
+}
+#line{
+    border: 1px solid black;
+    position: absolute;
+    top: 1230px;
+    left: 30px;
+    width: 1500px;
+}
+#fpcm{
+    border: 1 grey;
+    border-style: outset;
+    background-color: rgba(250,250,250);
+    border-radius: 70px;
+    width: 255px;
+    height: 209PX;
+    z-index: -1;
+    border-radius: 5px;
+    position: absolute;
+    left: 40px;
+    top: 1230.5px;
+}
+div>h3{
+    position: absolute;
+    top: 1220.5px;
+    left: 55px;
+    border: 1px dotted gray;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    padding-bottom: 25px;
+}
+#gop{
+    border: 1  rgba(250,250,250);
+    border-style: outset;
+    background-color: rgba(250,250,250);
+    border-radius: 55px;
+    width: 255px;
+    height: 209PX;
+    z-index: -1;
+    border-radius: 5px;
+    position: absolute;
+    left: 298px;
+    top: 1230px;
+}
+#cod{
+    border: 1 white;
+    border-style: outset;
+    background-color: white;
+    border-radius: 55px;
+    width: 300px;
+    height: 219PX;
+    border-radius: 5px;
+    position: absolute;
+    left: 550px;
+    top: 1231.5px;
+}
+#faq{
+    border: 1 grey;
+    border-style: outset;
+    background-color: rgba(250,250,250);
+    border-radius: 55px;
+    width: 300px;
+    height: 209PX;
+    z-index: -1;
+    border-radius: 5px;
+    position: absolute;
+    left: 845.5px;
+    top: 1230px;
+}
+#line2{
+    border: 1px solid black;
+    position: absolute;
+    top: 1530px;
+    left: 30px;
+    width: 1500px;
+}
+.gop1{
+    position: absolute;
+    top: 1220px;
+    left: 310px;
+}
+.codb{
+    position: absolute;
+    top: 1220px;
+    left: 590px;
+}
+.faqs{
+    position: absolute;
+    top: 1220px;
+    left: 970px;
+}
+#img-pcm{
+    position: absolute;
+    top: 1300px;
+    left: 100px;
+}
+
+#img-gop{
+    position: absolute;
+    top: 1300px;
+    left: 380px;
+}
+#img-codb{
+    position: absolute;
+    top: 1300px;
+    left: 615px;
+}
+#img-qa{
+    position: absolute;
+    top: 1300px;
+    left: 970px;
+}
+.ii{
+    font-size: xx-large;
+    position: absolute;
+    top: 1450px;
+    left: 30px;
+}
+.sl{
+    color: rgb(79,141,179);
+    position: absolute;
+    top: 1580px;
+    left: 60px;
+    border-style: outset;
+    height: 110px;
+    width: 290px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: large;
+    z-index: -1;
+}
+.vgl{color: rgb(79,141,179);
+    position: absolute;
+    top: 1650px;
+    left: 90px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: large;
+    text-decoration: underline;
+}
+.bi{color: rgb(79,141,179);
+    position: absolute;
+    top: 1580px;
+    left: 460px;
+    border-style: outset;
+    height: 80px;
+    width: 330px;
+    text-align: center;
+    padding-top: 25px;
+    font-size: large;
+    z-index: -1;}
+
+.aip{color: rgb(79,141,179);
+    position: absolute;
+    top: 1580px;
+    left: 860px;
+    border-style: outset;
+    height: 80px;
+    width: 290px;
+    text-align: center;
+    padding-top: 25px;
+    font-size: large;
+    z-index: -1;
+}
+#footer{
+    text-align: left;
+   background-color: rgba(0, 53, 0);
+   height: 85px;
+   width: 2150px;
+   border: 5PX SOLID maroon;
+   border-left: 0px;
+   border-bottom: 0PX;
+   border-right: 0PX;
+   position:absolute;
+   left:3px;
+   top: 1750px;
+   padding-top: 5px;
+   padding-left: 270px;
+   color: white;
+   font-size: larger;
+   font-size: medium;
+   z-index: 2;
+
+   
+}
+.LH{
+     position: absolute;
+     top: 200px;
+     left: 1220px;
+}
+
